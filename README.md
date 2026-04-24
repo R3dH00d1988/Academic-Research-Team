@@ -125,4 +125,4 @@ Cross-check the output against **MLA International Bibliography**, **Project MUS
 
 ## License
 
-MIT License. Use freely; attribution appreciated.
+Academic Research Team by R3dH00d1988 is marked CC0 1.0
